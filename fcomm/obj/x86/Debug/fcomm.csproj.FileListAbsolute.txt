@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\fredj com\fcomm\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\fredj com\fcomm\obj\x86\Debug\fcomm.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\fredj com\fcomm\obj\x86\Debug\fcomm.Connect.resources
+C:\Users\user\Desktop\fredj com\fcomm\obj\x86\Debug\fcomm.param.resources
+C:\Users\user\Desktop\fredj com\fcomm\obj\x86\Debug\fcomm.Menugen.resources
+C:\Users\user\Desktop\fredj com\fcomm\obj\x86\Debug\fcomm.Properties.Resources.resources
+C:\Users\user\Desktop\fredj com\fcomm\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\Desktop\fredj com\fcomm\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user\Desktop\fredj com\fcomm\bin\Debug\fcomm.exe
+C:\Users\user\Desktop\fredj com\fcomm\bin\Debug\fcomm.pdb
+C:\Users\user\Desktop\fredj com\fcomm\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\user\Desktop\fredj com\fcomm\obj\x86\Debug\fcomm.exe
+C:\Users\user\Desktop\fredj com\fcomm\obj\x86\Debug\fcomm.pdb
+C:\Users\user\Desktop\fredj com\fcomm\obj\x86\Debug\fcomm.Aricle.resources
